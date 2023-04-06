@@ -1,16 +1,6 @@
-/* 24-01-2023 
- * day 2
- * assignment qustino
- */
 
-/* add comments */
+// branch1 changed code
 
-
-
-//hibsbdcuysbdcuci
-//////////////////////////
-///////////////////////////////
-////////////////////////////////
 package basics_venkat;
 
 import java.util.Scanner;
@@ -37,7 +27,6 @@ public class ArrRev {
 		obj.close();
 
 
-////////////////////////////////
 	}
 
 }
